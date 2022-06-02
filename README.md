@@ -1,3 +1,5 @@
+This is a copy of a project by kelebek333 added for safe keeping iam not taking ownership
+
 RTL8188FU driver for Linux kernel 4.15.x ~ 5.18.x (Linux Mint, Ubuntu or Debian Derivatives)
 
 ------------------
